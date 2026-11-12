@@ -1,4 +1,4 @@
-# BigGAN with CLIP, the "Big Sleep"
+# BigGAN with CLIP
 # 介紹
 BigGAN 是一種GAN(Generative Adversarial Network 對抗生成網路)的模型，可用於生成高仿真圖片，
 CLIP則是一種人工神經網路，專門用於解讀文字裡所帶有的影像概念，
